@@ -331,7 +331,7 @@
   justify-content: center;
   text-decoration: none;
   border-radius: 50%;
-  border: 1px solid var(--text-color-2);
+  border: 1px solid var(--secondary-color);
   transition: 0.3s;
 }
 .groups-section .social-link:hover {
@@ -342,7 +342,7 @@
 }
 
 .groups-section .social-link i {
-  color: var(--text-color-2);
+  color: var(--secondary-color);
   font-size: 2.5rem;
   transition: 0.3s;
 }
